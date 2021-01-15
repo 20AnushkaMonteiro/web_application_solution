@@ -4,14 +4,13 @@
 
 *	Anushka monteiro (Q14095149)
 
-*	Link to your hosted website
+*	Link to your hosted website http://contemp-web-app-solutions/event-app/home.html
 
 *	Link to your Git Repository, which should include a: https://github.com/20AnushkaMonteiro/web_application_solution.git
 
 
-
 # Introduction
-The problems statement that was trying to solve are to help students at Solent University be aware of the activities taking place at the university. The project is focused on satisfying the needs of the customer. A 'user-centered approach' for the student, leveraging the non-linear aspects of the design thinking process. At the stage of the ideate, I'm working on building a prototype of functionality such as locating activities in the local region, sorting and searching categories to help the user locate what they're searching for in a few taps, rather than browsing through all the information offered. As mentioned in the first assignment about the idea following it in this assignment it will be used to develop the medium fidelity prototype.  
+The problems statement that was being solve was to help students at Solent University be aware of the activities taking place at the university. The project is focused on satisfying the needs of the customer. A 'user-centered approach' for the student, leveraging the non-linear aspects of the design thinking process. At the stage of the ideate, I'm working on building a prototype of functionality such as locating activities in the local region, sorting and searching categories to help the user locate what they're searching for in a few taps, rather than browsing through all the information offered. As mentioned in the first assignment about the idea following it in this assignment it will be used to develop the medium fidelity prototype.  
 
 # Methodology
 During the prototyping and implementation stage, the method that will be used is waterfall approach as this will help me set goals for each step of the process and manage it in that stage before moving to the next process. 
